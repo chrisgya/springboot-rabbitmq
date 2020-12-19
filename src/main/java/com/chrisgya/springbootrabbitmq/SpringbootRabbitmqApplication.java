@@ -11,3 +11,6 @@ public class SpringbootRabbitmqApplication {
 	}
 
 }
+
+
+// https://dzone.com/articles/spring-boot-rabbitmq-tutorial-retry-and-error-hand
